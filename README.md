@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohit-k-Mummon
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning Redux
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me (mxkumar@protonmail.com)
 
